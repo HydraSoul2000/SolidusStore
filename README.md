@@ -63,8 +63,8 @@ The application should now be accessible at http://localhost:3000.
 
 To access the Solidus admin interface, go to http://localhost:3000/admin in your browser. You can log in using the default admin credentials:
 
-* Email: spree@example.com
-* Password: spree123
+* Email: admin@example.com
+* Password: test123
 
 8. Customize and Build Your Store:
 
