@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SolidusStore.iml" filepath="$PROJECT_DIR$/.idea/SolidusStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solidus_starter_frontend-1096e91a33e305f982a6a254c7f9f5ec.iml" filepath="$PROJECT_DIR$/.idea/modules/solidus_starter_frontend-1096e91a33e305f982a6a254c7f9f5ec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solidus_starter_frontend-60a2356cbc19b6f73ede0589e559911a.iml" filepath="$PROJECT_DIR$/.idea/modules/solidus_starter_frontend-60a2356cbc19b6f73ede0589e559911a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/solidus_starter_frontend-b7b2bedc06b4e269e566b2140f5ac78c.iml" filepath="$PROJECT_DIR$/.idea/modules/solidus_starter_frontend-b7b2bedc06b4e269e566b2140f5ac78c.iml" />
     </modules>
   </component>
 </project>
